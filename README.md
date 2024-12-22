@@ -7,5 +7,5 @@ Aplikasi tanya jawab
 ## ERD
 ![picture alt](https://drive.google.com/uc?export=view&id=1kMZpZQ1nUSmCl35ra0sXVHhv_TzSbKDA "Sanbercode Final project ERD")
 
-
+Aplikasi dapat coba diakses [disini](https://sanbercode-final-project-production.up.railway.app)
 
